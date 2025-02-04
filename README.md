@@ -17,5 +17,7 @@
 
 ## Aplicativo Demo Synth
 
+O aplicativo esta em proceso de testes para os efeitos de ruido e reverberação
+
 ![Synth](https://github.com/user-attachments/assets/f35214fd-7e9a-4565-9bd9-58c2b0d39e8a)
 
